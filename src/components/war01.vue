@@ -79,10 +79,10 @@ export default {
      
      player:[
         {name:'Phapoom',hp:80,image:"https://siamganesh.com/all_gods/brahma/brahma-dollsofindia.jpg" },
-        {name:'PhamaeUma',hp:90,image:"https://i.imgur.com/q7HV9wb.gif" },
+        {name:'Phanarai',hp:90,image:"https://files.gqthailand.com/uploads/p7.jpg" },
         {name:'Phasiwa',hp:100,image:"https://www.siamganesh.com/all_gods/shiva/nandi_dollsofindia.jpg" },
         {name:'Phapikhanad',hp:120,image:"https://f.ptcdn.info/530/028/000/1424164950-GANESH6720-o.jpg" },
-       {name:'Phamaerassamee',hp:160,image:"https://3.bp.blogspot.com/-a_HV4DuzbTI/UbsmsKKKuRI/AAAAAAAAAX8/m-lo3yy8Oz4/s1600/lakshmi_devi_mata_by_vishnu108-d2z4fuj.gif" },
+       {name:'Phamaekhali',hp:160,image:"https://lh3.googleusercontent.com/proxy/qXuXzxK9Y5zf4TWeE-sAZo4O-sdIoKG0P2R29stswkbEkmTZnVxEFnoI1RlCgPYgvPwkNPbEPh5VKsnNyLO-vsZY4RlmDiWkXnvmvc5p6Zk1dg" },
        {name:'Phamaethoranee',hp:199,image:"https://lh3.googleusercontent.com/-qSNeiWjHT4k/XDV-B6latjI/AAAAAAAAgLQ/7Q6-RLyVpS0_ZZ5dMpgl1vmNube6bS9DwCMQCGAYYCw/s400/6qk23.gif" },
       
       ],
